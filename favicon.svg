@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Innovation Coaching">
+  <rect width="64" height="64" rx="14" fill="#14212B"/>
+  <path d="M16 44 C 26 44 28 22 32 22 C 36 22 38 44 48 44" fill="none" stroke="#2FB3A3" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="16" cy="44" r="4.5" fill="#14212B" stroke="#2FB3A3" stroke-width="2.5"/>
+  <circle cx="32" cy="22" r="6" fill="#2FB3A3"/>
+  <circle cx="48" cy="44" r="4.5" fill="#14212B" stroke="#2FB3A3" stroke-width="2.5"/>
+</svg>
